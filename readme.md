@@ -1,5 +1,8 @@
 # rs world pinging tool
 
+Disclamer:
+We take no responsibility for the useage of this tool, it is likely possible to get yourself IP and/or account banned using it. Set your settings to resonable numbers and don't spam jagex's servers.
+
 requires:
 
 - node
